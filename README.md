@@ -1,5 +1,8 @@
 # Advanced-Rocket-Simulator-
 
+![advance rocket simulator](https://github.com/user-attachments/assets/0d72865c-b7f4-4d8b-9ab5-41634896c205)
+
+
 
 The Advanced Rocket Simulator is an innovative and comprehensive simulation tool designed to model and analyze rocket trajectories and dynamics. Developed using PyQt5, this application integrates various simulation parameters such as thrust, gravity, drag coefficient, and more to provide a realistic and interactive experience.
 
